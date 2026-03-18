@@ -1,7 +1,7 @@
 window.addEventListener('load', () => {
     setTimeout(() => {
         document.getElementById('loading-screen').classList.add('hide');
-    }, 2200);
+    }, 1050);
 });
 
 document.addEventListener("DOMContentLoaded", function () {
